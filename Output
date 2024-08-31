@@ -1,0 +1,16 @@
+Welcome to the Number Guessing Game!
+
+New round started! Guess the number between 1 and 100:
+Attempt #1Enter your guess:4
+Too low!Try again.
+Attempt #2Enter your guess:50
+Too low!Try again.
+Attempt #3Enter your guess:90
+Too high!Try again.
+Attempt #4Enter your guess:70
+Too high!Try again.
+Attempt #5Enter your guess:55
+Too high!Try again.
+Sorry,you've runout of attempts.
+The correct number is 54
+Do you want to play again? (yes/no)
